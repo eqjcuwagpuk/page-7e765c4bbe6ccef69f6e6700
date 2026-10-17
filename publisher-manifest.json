@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "800024ee4c51a49487c514a1",
+  "owner": "eqjcuwagpuk",
+  "repo": "page-7e765c4bbe6ccef69f6e6700",
+  "title": "CyberT",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7e765c4bbe6ccef69f6e6700",
+      "a": "CyberT",
+      "b": "",
+      "entity": "CyberT",
+      "brand": "CyberT",
+      "separator": "",
+      "path": "index.html",
+      "hash": "82eb69fd2775fa982f9598cdbdd6e6d4d57f344917e5221d4eca2878dd293b1e",
+      "content": {
+        "keyword1": "CyberT",
+        "keyword2": "",
+        "primary_entity": "CyberT",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "CyberT 提供基础版、旗舰版与团队版代理方案。按月或按年订阅，支持多设备在线、流媒体解锁与专线优化。本页含套餐对比、使用说明与常见问答。",
+          "AI_DESCRIPTION": "CyberT 提供基础版、旗舰版与团队版代理方案。按月或按年订阅，支持多设备在线、流媒体解锁与专线优化。本页含套餐对比、使用说明与常见问答。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}\nhtml{font-size:16px;-webkit-text-size-adjust:100%}\nbody{background:#0a0a0a;color:#f4f4f4;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.65;letter-spacing:.01em}\nmain{display:block;max-width:1200px;margin:0 auto;padding:0 24px}\na{color:#c8ff00;text-decoration:none;border-bottom:1px solid rgba(200,255,0,.35)}\na:hover{border-bottom-color:#c8ff00}\nh1,h2,h3{font-weight:800;letter-spacing:-.02em;line-height:1.15}\n::selection{background:#c8ff00;color:#0a0a0a}\n\n/* HERO */\n.hero{padding:72px 0 40px}\n.hero-grid{display:grid;grid-template-columns:repeat(12,1fr);gap:24px;border-top:1px solid #232323;padding-top:28px}\n.brand-tag{grid-column:1/4;color:#9a9a9a;font-size:.8rem;letter-spacing:.3em;text-transform:uppercase}\n.masthead{grid-column:4/10}\n.masthead h1{font-size:clamp(2.2rem,5vw,3.4rem);color:#fff}\n.masthead h1 .accent{color:#c8ff00}\n.masthead .lede{margin-top:14px;color:#d0d0d0;font-size:1.05rem;max-width:52ch}\n.hero-nav{grid-column:1/-1;margin-top:22px;display:flex;flex-wrap:wrap;gap:10px}\n.hero-nav a{border:1px solid #2c2c2c;border-radius:999px;padding:8px 16px;font-size:.85rem;color:#cfcfcf;transition:.15s}\n.hero-nav a:hover{background:#c8ff00;color:#0a0a0a;border-color:#c8ff00}\n.hero-meta{grid-column:1/-1;margin-top:8px;display:grid;grid-template-columns:repeat(4,1fr);gap:18px;color:#888;font-size:.78rem;text-transform:uppercase;letter-spacing:.2em}\n.hero-meta b{display:block;color:#c8ff00;font-size:1.3rem;letter-spacing:.05em;text-transform:none;font-weight:700;margin-bottom:2px}\n\n/* SECTION */\nsection{padding:64px 0;border-top:1px solid #161616}\n.section-head{display:flex;align-items:baseline;gap:14px;margin-bottom:28px;flex-wrap:wrap}\n.section-num{color:#c8ff00;font-weight:800;font-size:.9rem;letter-spacing:.1em}\n.section-head h2{font-size:clamp(1.6rem,3vw,2.1rem);color:#fff}\n.section-head p{color:#888;margin-left:auto;font-size:.85rem}\n\n/* CARDS */\n.card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}\n.card{background:#141414;border-radius:18px;padding:24px;box-shadow:0 18px 40px -24px rgba(0,0,0,.8),0 0 0 1px #1c1c1c inset}\n.card h3{font-size:1.15rem;margin-bottom:10px;color:#fff}\n.card p{color:#b8b8b8;font-size:.92rem}\n.card .tag{display:inline-block;font-size:.72rem;letter-spacing:.15em;color:#0a0a0a;background:#c8ff00;border-radius:6px;padding:2px 8px;text-transform:uppercase;margin-bottom:14px}\n\n/* PLANS TABLE */\n.plans-wrap{overflow-x:auto;border-radius:18px;border:1px solid #1f1f1f}\ntable.plans{width:100%;border-collapse:collapse;min-width:720px;background:#111}\ntable.plans th,table.plans td{padding:18px 20px;text-align:left;border-bottom:1px solid #1c1c1c;vertical-align:top;font-size:.92rem}\ntable.plans thead th{background:#0d0d0d;color:#9a9a9a;font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;font-weight:600}\ntable.plans th.featured,table.plans td.featured{background:rgba(200,255,0,.05)}\ntable.plans td.name{color:#fff;font-weight:700;font-size:1rem}\ntable.plans td.price{color:#c8ff00;font-weight:700;font-size:1.05rem}\ntable.plans td ul{list-style:none;margin:0}\ntable.plans td ul li{padding:3px 0;color:#cfcfcf}\ntable.plans td ul li::before{content:\"–\";color:#666;margin-right:8px}\n.badge{display:inline-block;background:#c8ff00;color:#0a0a0a;font-size:.68rem;letter-spacing:.1em;padding:3px 8px;border-radius:6px;margin-left:8px;text-transform:uppercase;font-weight:700;vertical-align:middle}\n.plan-note{margin-top:14px;color:#888;font-size:.85rem}\n\n/* STEPS */\n.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}\n.step{background:#141414;border-radius:18px;padding:26px;box-shadow:0 18px 40px -24px rgba(0,0,0,.8);position:relative}\n.step .num{position:absolute;top:22px;right:24px;font-size:2.4rem;font-weight:900;color:#1e1e1e;line-height:1}\n.step h3{font-size:1.1rem;margin-bottom:8px;color:#fff;position:relative;z-index:1}\n.step p{color:#b8b8b8;font-size:.9rem;position:relative;z-index:1}\n\n/* FAQ */\n.faq-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px 28px}\n.qa{background:#131313;border-radius:18px;padding:22px 24px;box-shadow:0 14px 32px -22px rgba(0,0,0,.7);border:1px solid #1a1a1a}\n.qa h3{font-size:1rem;color:#c8ff00;margin-bottom:10px;font-weight:700}\n.qa p{color:#bdbdbd;font-size:.9rem}\n\n/* FOOTER */\nfooter{margin-top:48px;border-top:1px solid #1a1a1a;padding:36px 0;color:#777;font-size:.82rem}\nfooter .foot-inner{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}\nfooter .links a{color:#bbb;margin-right:14px}\n.foot-mark{font-weight:800;letter-spacing:.05em;color:#c8ff00}\n\n@media (max-width:780px){\n  .brand-tag,.masthead{grid-column:1/-1}\n  .hero-meta{grid-template-columns:repeat(2,1fr)}\n  .faq-grid{grid-template-columns:1fr}\n  .section-head p{margin-left:0;width:100%}\n}\n</style><main>\n\n\n<header class=\"hero\">\n  <div class=\"hero-grid\">\n    <div class=\"brand-tag\">CYBERT · 代理服务方案</div>\n    <div class=\"masthead\">\n      <h1>CyberT<span class=\"accent\">.</span></h1>\n      <p class=\"lede\">三档订阅，按月或按年。设备在线、流量额度、线路类型、支持优先级，全部写在表格里。不夸大，不绕弯。</p>\n    </div>\n    <nav class=\"hero-nav\" aria-label=\"页面导航\">\n      <a href=\"#features\">方案差异</a>\n      <a href=\"#plans\">套餐对比</a>\n      <a href=\"#setup\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n    <div class=\"hero-meta\">\n      <div><b>3</b>订阅档位</div>\n      <div><b>3–20</b>设备同时在线</div>\n      <div><b>100GB–1TB</b>月度流量</div>\n      <div><b>7×24</b>工单支持</div>\n    </div>\n  </div>\n</header>\n\n\n<section id=\"features\">\n  <div class=\"section-head\">\n    <span class=\"section-num\">01</span>\n    <h2>方案差异</h2>\n    <p>不同档位的实际区别</p>\n  </div>\n  <div class=\"card-grid\">\n    <article class=\"card\">\n      <span class=\"tag\">基础版</span>\n      <h3>日常浏览</h3>\n      <p>普通线路节点池，覆盖基础流媒体解锁。适合轻度网页访问与日常资讯浏览。</p>\n    </article>\n    <article class=\"card\">\n      <span class=\"tag\">旗舰版</span>\n      <h3>流媒体与游戏</h3>\n      <p>全节点原生流媒体解锁，IPLC 专线对游戏延迟做优化。优先工单响应。</p>\n    </article>\n    <article class=\"card\">\n      <span class=\"tag\">团队版</span>\n      <h3>多人协作</h3>\n      <p>VIP 高带宽节点，支持企业定制路由与专属客户经理，适合团队统一管理。</p>\n    </article>\n  </div>\n</section>\n\n\n<section id=\"plans\">\n  <div class=\"section-head\">\n    <span class=\"section-num\">02</span>\n    <h2>套餐对比</h2>\n    <p>横向查看，一目了然</p>\n  </div>\n  <div class=\"plans-wrap\">\n    <table class=\"plans\">\n      <thead>\n        <tr>\n          <th>项目</th>\n          <th>基础版</th>\n          <th class=\"featured\">旗舰版<span class=\"badge\">推荐</span></th>\n          <th>团队版</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>月价</td>\n          <td class=\"price\">¥15/月</td>\n          <td class=\"price featured\">¥35/月</td>\n          <td class=\"price\">¥85/月</td>\n        </tr>\n        <tr>\n          <td>年付</td>\n          <td>¥150/年</td>\n          <td class=\"featured\">¥350/年</td>\n          <td>¥850/年</td>\n        </tr>\n        <tr>\n          <td>月度流量</td>\n          <td>100GB</td>\n          <td class=\"featured\">300GB</td>\n          <td>1000GB</td>\n        </tr>\n        <tr>\n          <td>设备同时在线</td>\n          <td>3 台</td>\n          <td class=\"featured\">5 台</td>\n          <td>20 台</td>\n        </tr>\n        <tr>\n          <td>流媒体解锁</td>\n          <td>基础解锁</td>\n          <td class=\"featured\">全节点原生解锁</td>\n          <td>全节点原生解锁</td>\n        </tr>\n        <tr>\n          <td>线路类型</td>\n          <td>普通节点池</td>\n          <td class=\"featured\">IPLC 专线游戏优化</td>\n          <td>VIP 高带宽节点</td>\n        </tr>\n        <tr>\n          <td>定制能力</td>\n          <td>—</td>\n          <td class=\"featured\">—</td>\n          <td>企业定制路由</td>\n        </tr>\n        <tr>\n          <td>支持</td>\n          <td>常规工单</td>\n          <td class=\"featured\">7×24 优先工单</td>\n          <td>专属客户经理</td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n  <p class=\"plan-note\">价格与权益以订阅页面实际展示为准。年付为单次预付，不自动续费。</p>\n</section>\n\n\n<section id=\"setup\">\n  <div class=\"section-head\">\n    <span class=\"section-num\">03</span>\n    <h2>使用说明</h2>\n    <p>四步开始使用</p>\n  </div>\n  <div class=\"steps\">\n    <article class=\"step\">\n      <div class=\"num\">01</div>\n      <h3>选择套餐</h3>\n      <p>在套餐对比中确定档位。月付灵活，年付单价更低。确认设备数量与流量需求后再下单。</p>\n    </article>\n    <article class=\"step\">\n      <div class=\"num\">02</div>\n      <h3>获取订阅</h3>\n      <p>完成支付后，账户页面会显示订阅地址。复制地址备用，不要分享给非同账号成员。</p>\n    </article>\n    <article class=\"step\">\n      <div class=\"num\">03</div>\n      <h3>导入客户端</h3>\n      <p>使用常用客户端，将订阅地址粘贴到导入栏。客户端会自动拉取节点列表与分流规则。</p>\n    </article>\n    <article class=\"step\">\n      <div class=\"num\">04</div>\n      <h3>选择节点</h3>\n      <p>按地区或延迟排序选择节点。遇到问题可提交工单，旗舰版及以上享受优先处理。</p>\n    </article>\n  </div>\n</section>\n\n\n<section id=\"faq\">\n  <div class=\"section-head\">\n    <span class=\"section-num\">04</span>\n    <h2>常见问题</h2>\n    <p>关于订阅与使用</p>\n  </div>\n  <div class=\"faq-grid\">\n    <article class=\"qa\">\n      <h3>三档套餐的流量有什么区别？</h3>\n      <p>基础版每月 100GB，旗舰版 300GB，团队版 1000GB。流量按自然月重置，不累积到下月。</p>\n    </article>\n    <article class=\"qa\">\n      <h3>设备同时在线如何计算？</h3>\n      <p>同一订阅地址在多台设备上同时连接，受各档位上限限制：基础 3 台、旗舰 5 台、团队 20 台。超出会被临时限制。</p>\n    </article>\n    <article class=\"qa\">\n      <h3>月付可以随时切换年付吗？</h3>\n      <p>可以。在当前月付周期结束前升级年付，剩余天数按比例折算。具体以账户页面提示为准。</p>\n    </article>\n    <article class=\"qa\">\n      <h3>流媒体解锁支持哪些平台？</h3>\n      <p>基础版支持常见流媒体的基础解锁，旗舰版与团队版为全节点原生解锁。具体可用内容随线路与地区变化。</p>\n    </article>\n    <article class=\"qa\">\n      <h3>团队版的企业定制路由是什么？</h3>\n      <p>团队版可按企业需求配置特定域名或 IP 段的路由走向，由专属客户经理协助设置。</p>\n    </article>\n    <article class=\"qa\">\n      <h3>遇到连接问题怎么办？</h3>\n      <p>先更换节点或切换线路类型。仍未解决可提交工单。旗舰版及以上享受 7×24 优先响应。</p>\n    </article>\n  </div>\n</section>\n\n</main>\n\n<footer>\n  <div class=\"foot-inner\">\n    <div><span class=\"foot-mark\">CyberT</span> · 代理服务方案页面</div>\n    <div class=\"links\">\n      <a href=\"#plans\">套餐</a>\n      <a href=\"#setup\">使用</a>\n      <a href=\"#faq\">问答</a>\n    </div>\n  </div>\n</footer>",
+          "hash": "98ec756f16d495cae33f3faed9540c16219edf72f686f0c8cc91fcbcba9c512e",
+          "seo": {
+            "title": "CyberT — 代理服务方案、套餐与常见问答",
+            "keywords": "CyberT,代理服务,套餐,客户端,常见问题,节点,流媒体,设备",
+            "description": "CyberT 提供基础版、旗舰版与团队版代理方案。按月或按年订阅，支持多设备在线、流媒体解锁与专线优化。本页含套餐对比、使用说明与常见问答。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "1730",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sanjuyan.cn",
+    "host": "p-39a49586ff.sanjuyan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "80d7f44bf3f9fd645d203dc5d6a540660a181197ad56edde9fee5d1724d5d8bf",
+    "sitemap.xml": "76166d2f37b0c220e03e65644ac8e14bd1a6e241329c5b3f7dacf05ac7206d01",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8de7e7400962c156ed501854476955b10b1740788a090250c8405ce146b4290b",
+    "robots.txt": "0de3c328ef44228d76203c2611f7f10ec720c279abe52e390c847d7bb0e3cc60",
+    "7fc27feecbd686326c0a9fd0931e7860.txt": "e850a5f051f6ef735c27edc6b419fb1c450680ac69020f81a532e5c6dfc6df9f"
+  },
+  "revision": "0b28cd68e6fd7c833d3fc44ef1bff0a69ecab7944040fd8aac023536663af485"
+}
